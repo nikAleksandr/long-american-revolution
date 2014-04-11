@@ -174,7 +174,15 @@ form {
 	text-align: left;
 }
 
-
+#ss-submit{
+	background-color:rgb(59, 89, 152);
+	background-clip:border-box;
+	border-radius:.5em;
+	color: #fff;
+}
+#ss-submit:hover{
+	background-color:rgb(64,153,255);
+}
 
 
 
