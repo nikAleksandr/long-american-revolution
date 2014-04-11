@@ -1,0 +1,19 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    <name> -- <role> -- <twitter>
+    Nick Lyell -- Co-creator/Developer -- @NickLyellLyell
+    Max Puchalsky -- Co-Creator
+    Laduma Nguyuza -- Video Performance
+    Jessica Doing -- Logo Design
+
+# THANKS
+
+    Alison Scharman, Mike Tennyson, and Andy Karr for making me watch so many horror movies.
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3, FPCX
+    Normalize.css, jQuery, Modernizr
